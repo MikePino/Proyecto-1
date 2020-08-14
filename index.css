@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 24px 84px 46px;
+    background-color: white;
+}
+
+.no-bullets {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.items {
+    margin-left: 44px;
+    color: #4F5965;
+}
