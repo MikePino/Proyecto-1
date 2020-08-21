@@ -37,6 +37,7 @@
 .section2 {
     display: flex;
     margin-top: 48px;
+    margin-bottom: 64px;
     width: 100%;
     
 }
@@ -56,17 +57,23 @@
     width: 582px;
     height: 565px;
     background-color:#F2F2F2;
+    padding-bottom: 233px;
+    padding-left: 80px;
+    padding-right: 80px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 .margin-title{
-    margin-bottom: 6%;
+    margin-top:6%;
+    margin-bottom: 4%;
 }
 
 .margin-paragraph {
     margin-top: 5%;
     margin-bottom: 3%;
+    padding-left: 8%;
+    padding-right:7%;
 }
 .img-article {
     width: 493px;
@@ -86,12 +93,12 @@
 }
 
 .margin-title-aside {
-    margin-top: 17%;
+    margin-top: 5%;
     margin-left: 20%;
 }
 
 .margin-aside {
-    margin-top:10%;
+    margin-top:5%;
     margin-left: 15%;
 }
 
@@ -99,4 +106,37 @@
     margin-top: 10%;
     margin-left: 10%;
 }
+
+.margin-form {
+    margin-top: 10%;
+    text-decoration-line: underline;
+    margin-left: 21%;
+}
+
+.form {
+    margin-top:2%;
+    margin-left: 8%;
+    width: 178px;
+    height: 32px;
+}
+
+.form-text {
+    margin-top:2%;
+    margin-left: 8%;
+    width: 180px;
+}
+
+.button {
+    margin-top:2%;
+    margin-left: 8%;
+    width: 184px;
+    height: 32px;
+}
+.footer {
+    text-align: center;
+    padding-top: 86px;
+    padding-bottom: 90px;
+    background-color: #47525E;
+}
+
 
